@@ -1,0 +1,7 @@
+body {
+    background: url(../images/blue.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    color: black;
+    height: 100%;
+    font-family: 'Play', sans-serif;
+}   
