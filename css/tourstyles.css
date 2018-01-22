@@ -1,0 +1,17 @@
+html, body {
+    font-family: 'Play', sans-serif;
+    background-color: rgba(39, 37, 37, 0.897);
+}   
+
+.jumbotron {
+    background-color: rgb(231, 123, 0);
+}
+
+.nav-link {
+    color: white;
+}
+
+table {
+    opacity: 0.9;
+}
+
